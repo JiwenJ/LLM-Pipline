@@ -37,7 +37,7 @@ First, I recommend some straightforward lists about the performance of existing 
 
 - English
   - [open-llm-learderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
-  - alphaca
+  - alpaca
 
 - Chinese
   - [SuperCLUE](https://www.cluebenchmarks.com/superclue.html)
