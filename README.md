@@ -41,3 +41,32 @@ First, I recommend some straightforward lists about the performance of existing 
 
 - Chinese
   - [SuperCLUE](https://www.cluebenchmarks.com/superclue.html)
+
+
+Some frameworks and papers to explore:
+- Metrogan
+- Deepspeed
+- vLLM
+- k8s
+- Docker
+- Flash attention 1 and 2
+- RLHF
+- training custom LLMs
+- Qlora
+- Finetuning
+- Landmark attention
+- mysys
+- cuda 算子
+- 字节AML 阿里PAI
+- GPT cache
+- 算子
+- cuda
+- 推理引擎
+- 训练框架
+- 机器学习平台
+- cot
+- flan
+- orca
+- platypus
+- peft
+- ds
