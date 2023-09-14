@@ -28,7 +28,7 @@ It is common to witness such an awkward scenario where we don't have enough GPU 
 -  Quantization
   -
 
-Perhaps you might be interested in Dan Alistarh, who is the author of GTQT techniques. GTQP has ...... More details about him, you can refer to [Dan Alistarh](./dan) 
+Perhaps you might be interested in Dan Alistarh, who is the author of GTQT techniques. GTQP has ...... More details about him, you can refer to [Dan Alistarh](./doc/Dan%20Alistarh.md)
 
 
 ## Evaluation
