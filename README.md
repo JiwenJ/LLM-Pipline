@@ -31,6 +31,12 @@ It is common to witness such an awkward scenario where we don't have enough GPU 
 Perhaps you might be interested in Dan Alistarh, who is the author of GTQT techniques. GTQP has ...... More details about him, you can refer to [Dan Alistarh](./doc/Dan%20Alistarh.md)
 
 
+### Inference
+- Transformer Library https://huggingface.co/blog/llama2#using-transformers
+- vLLM
+- TGI
+- Web generation UI
+
 ## Evaluation
 
 First, I recommend some straightforward lists about the performance of existing LLMs, as follows:
