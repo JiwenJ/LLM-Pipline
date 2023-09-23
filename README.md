@@ -70,3 +70,5 @@ Some frameworks and papers to explore:
 - platypus
 - peft
 - ds
+- RHLF
+- RHAHL
