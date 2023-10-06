@@ -78,3 +78,9 @@ Some frameworks and papers to explore:
 - ds
 - RHLF
 - RHAHL
+
+#### Course Videos
+- A Full List http://tinyml.seas.harvard.edu/courses/
+- MIT 6.5940 https://hanlab.mit.edu/courses/2023-fall-65940
+- ESE3600 https://tinyml.seas.upenn.edu/
+- 
