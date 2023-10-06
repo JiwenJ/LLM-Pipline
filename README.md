@@ -83,4 +83,4 @@ Some frameworks and papers to explore:
 - A Full List on TinyML http://tinyml.seas.harvard.edu/courses/
 - MIT 6.5940 https://hanlab.mit.edu/courses/2023-fall-65940
 - ESE3600 https://tinyml.seas.upenn.edu/
-- A Full List CS https://github.com/Developer-Y/cs-video-courses
+- A Full List on CS https://github.com/Developer-Y/cs-video-courses
